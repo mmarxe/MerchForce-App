@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/mapbox_gl/intermediates/merged_res/release/drawable-ldpi-v4/mapbox_user_stroke_icon.png",
+        "source": "/Users/mac/.gradle/caches/transforms-3/b7683374aa69ff8cf4a3a930bd92ab56/transformed/jetified-mapbox-android-sdk-9.6.2/res/drawable-ldpi-v4/mapbox_user_stroke_icon.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/mapbox_gl/intermediates/merged_res/release/drawable-ldpi-v4/mapbox_info_icon_selected.png",
+        "source": "/Users/mac/.gradle/caches/transforms-3/b7683374aa69ff8cf4a3a930bd92ab56/transformed/jetified-mapbox-android-sdk-9.6.2/res/drawable-ldpi-v4/mapbox_info_icon_selected.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/mapbox_gl/intermediates/merged_res/release/drawable-ldpi-v4/mapbox_user_bearing_icon.png",
+        "source": "/Users/mac/.gradle/caches/transforms-3/b7683374aa69ff8cf4a3a930bd92ab56/transformed/jetified-mapbox-android-sdk-9.6.2/res/drawable-ldpi-v4/mapbox_user_bearing_icon.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/mapbox_gl/intermediates/merged_res/release/drawable-ldpi-v4/mapbox_user_icon.png",
+        "source": "/Users/mac/.gradle/caches/transforms-3/b7683374aa69ff8cf4a3a930bd92ab56/transformed/jetified-mapbox-android-sdk-9.6.2/res/drawable-ldpi-v4/mapbox_user_icon.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/mapbox_gl/intermediates/merged_res/release/drawable-ldpi-v4/mapbox_info_icon_default.png",
+        "source": "/Users/mac/.gradle/caches/transforms-3/b7683374aa69ff8cf4a3a930bd92ab56/transformed/jetified-mapbox-android-sdk-9.6.2/res/drawable-ldpi-v4/mapbox_info_icon_default.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/mapbox_gl/intermediates/merged_res/release/drawable-ldpi-v4/mapbox_user_puck_icon.png",
+        "source": "/Users/mac/.gradle/caches/transforms-3/b7683374aa69ff8cf4a3a930bd92ab56/transformed/jetified-mapbox-android-sdk-9.6.2/res/drawable-ldpi-v4/mapbox_user_puck_icon.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/mapbox_gl/intermediates/merged_res/release/drawable-ldpi-v4/mapbox_user_icon_stale.png",
+        "source": "/Users/mac/.gradle/caches/transforms-3/b7683374aa69ff8cf4a3a930bd92ab56/transformed/jetified-mapbox-android-sdk-9.6.2/res/drawable-ldpi-v4/mapbox_user_icon_stale.png"
+    }
+]

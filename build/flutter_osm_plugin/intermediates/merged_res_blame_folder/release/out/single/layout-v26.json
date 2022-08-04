@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout-v26/mtrl_calendar_month.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout-v26/mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout-v26/abc_screen_toolbar.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout-v26/abc_screen_toolbar.xml"
+    }
+]

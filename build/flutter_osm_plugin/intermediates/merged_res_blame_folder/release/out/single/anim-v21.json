@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/anim-v21/mtrl_bottom_sheet_slide_out.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/anim-v21/mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/anim-v21/mtrl_bottom_sheet_slide_in.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/anim-v21/mtrl_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/anim-v21/fragment_fast_out_extra_slow_in.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/a6bf228adcf2ade0b45c4be1ab213b75/transformed/fragment-1.3.6/res/anim-v21/fragment_fast_out_extra_slow_in.xml"
+    }
+]

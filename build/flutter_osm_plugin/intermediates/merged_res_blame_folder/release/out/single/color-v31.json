@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/color-v31/m3_dynamic_highlighted_text.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/color-v31/m3_dynamic_highlighted_text.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/color-v31/m3_dynamic_dark_primary_text_disable_only.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/color-v31/m3_dynamic_dark_primary_text_disable_only.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/color-v31/m3_dynamic_primary_text_disable_only.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/color-v31/m3_dynamic_primary_text_disable_only.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/color-v31/m3_dynamic_dark_default_color_primary_text.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/color-v31/m3_dynamic_dark_default_color_primary_text.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/color-v31/m3_dynamic_dark_highlighted_text.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/color-v31/m3_dynamic_dark_highlighted_text.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/color-v31/m3_dynamic_hint_foreground.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/color-v31/m3_dynamic_hint_foreground.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/color-v31/m3_dynamic_dark_hint_foreground.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/color-v31/m3_dynamic_dark_hint_foreground.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/color-v31/m3_dynamic_dark_default_color_secondary_text.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/color-v31/m3_dynamic_dark_default_color_secondary_text.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/color-v31/m3_dynamic_default_color_secondary_text.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/color-v31/m3_dynamic_default_color_secondary_text.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/color-v31/m3_dynamic_default_color_primary_text.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/color-v31/m3_dynamic_default_color_primary_text.xml"
+    }
+]

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mac/Documents/payment-gateway/MerchForce/build/mapbox_gl/intermediates/merged_res/release/values-he/values-he.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-3/b7683374aa69ff8cf4a3a930bd92ab56/transformed/jetified-mapbox-android-sdk-9.6.2/res/values-he/values-he.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,177,331,407,480,553,638,725,841,944,1094,1208,1345",
+                        "endColumns": "121,153,75,72,72,84,86,115,102,149,113,136,68",
+                        "endOffsets": "172,326,402,475,548,633,720,836,939,1089,1203,1340,1409"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/mac/Documents/payment-gateway/MerchForce/build/mapbox_gl/intermediates/incremental/mergeReleaseResources/merged.dir/values-he/values-he.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-3/b7683374aa69ff8cf4a3a930bd92ab56/transformed/jetified-mapbox-android-sdk-9.6.2/res/values-he/values-he.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,177,331,407,480,553,638,725,841,944,1094,1208,1345",
+                        "endColumns": "121,153,75,72,72,84,86,115,102,149,113,136,68",
+                        "endOffsets": "172,326,402,475,548,633,720,836,939,1089,1203,1340,1409"
+                    }
+                }
+            ]
+        }
+    ]
+}

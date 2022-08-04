@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/mapbox_gl/intermediates/merged_res/release/interpolator/mtrl_linear_out_slow_in.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/48412f8049298d34cd5e113afc45f8e7/transformed/material-1.0.0/res/interpolator/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/mapbox_gl/intermediates/merged_res/release/interpolator/mtrl_fast_out_linear_in.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/48412f8049298d34cd5e113afc45f8e7/transformed/material-1.0.0/res/interpolator/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/mapbox_gl/intermediates/merged_res/release/interpolator/mtrl_linear.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/48412f8049298d34cd5e113afc45f8e7/transformed/material-1.0.0/res/interpolator/mtrl_linear.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/mapbox_gl/intermediates/merged_res/release/interpolator/mtrl_fast_out_slow_in.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/48412f8049298d34cd5e113afc45f8e7/transformed/material-1.0.0/res/interpolator/mtrl_fast_out_slow_in.xml"
+    }
+]

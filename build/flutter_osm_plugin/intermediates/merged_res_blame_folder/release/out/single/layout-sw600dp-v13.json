@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

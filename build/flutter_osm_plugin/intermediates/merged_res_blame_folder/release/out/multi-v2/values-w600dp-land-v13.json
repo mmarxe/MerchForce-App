@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/incremental/mergeReleaseResources/merged.dir/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}

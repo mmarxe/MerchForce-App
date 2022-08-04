@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/mapbox_gl/intermediates/merged_res/release/animator/mtrl_btn_state_list_anim.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/48412f8049298d34cd5e113afc45f8e7/transformed/material-1.0.0/res/animator/mtrl_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/mapbox_gl/intermediates/merged_res/release/animator/mtrl_fab_transformation_sheet_expand_spec.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/48412f8049298d34cd5e113afc45f8e7/transformed/material-1.0.0/res/animator/mtrl_fab_transformation_sheet_expand_spec.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/mapbox_gl/intermediates/merged_res/release/animator/mtrl_fab_hide_motion_spec.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/48412f8049298d34cd5e113afc45f8e7/transformed/material-1.0.0/res/animator/mtrl_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/mapbox_gl/intermediates/merged_res/release/animator/mtrl_btn_unelevated_state_list_anim.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/48412f8049298d34cd5e113afc45f8e7/transformed/material-1.0.0/res/animator/mtrl_btn_unelevated_state_list_anim.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/mapbox_gl/intermediates/merged_res/release/animator/design_fab_show_motion_spec.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/48412f8049298d34cd5e113afc45f8e7/transformed/material-1.0.0/res/animator/design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/mapbox_gl/intermediates/merged_res/release/animator/mtrl_fab_transformation_sheet_collapse_spec.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/48412f8049298d34cd5e113afc45f8e7/transformed/material-1.0.0/res/animator/mtrl_fab_transformation_sheet_collapse_spec.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/mapbox_gl/intermediates/merged_res/release/animator/mtrl_chip_state_list_anim.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/48412f8049298d34cd5e113afc45f8e7/transformed/material-1.0.0/res/animator/mtrl_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/mapbox_gl/intermediates/merged_res/release/animator/design_fab_hide_motion_spec.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/48412f8049298d34cd5e113afc45f8e7/transformed/material-1.0.0/res/animator/design_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/mapbox_gl/intermediates/merged_res/release/animator/mtrl_fab_show_motion_spec.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/48412f8049298d34cd5e113afc45f8e7/transformed/material-1.0.0/res/animator/mtrl_fab_show_motion_spec.xml"
+    }
+]

@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/osm_layout.xml",
+        "source": "/Users/mac/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_osm_plugin-0.37.2+2/android/src/main/res/layout/osm_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/preference_category_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/76af629e314dac3252ca20bbb1b2c370/transformed/preference-1.2.0/res/layout/preference_category_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/notification_template_part_time.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/5e083c06c9925c2309f02468fc66e376/transformed/core-1.7.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_picker_actions.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_picker_actions.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_picker_header_title_text.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_picker_header_title_text.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/material_chip_input_combo.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/material_chip_input_combo.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/design_navigation_item_separator.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_picker_header_dialog.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_picker_header_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/expand_button.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/76af629e314dac3252ca20bbb1b2c370/transformed/preference-1.2.0/res/layout/expand_button.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/3db694473890d00d37184af94df24c4c/transformed/media-1.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_calendar_days_of_week.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_calendar_days_of_week.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/preference_widget_seekbar.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/76af629e314dac3252ca20bbb1b2c370/transformed/preference-1.2.0/res/layout/preference_widget_seekbar.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/5e083c06c9925c2309f02468fc66e376/transformed/core-1.7.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_picker_dialog.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/preference_recyclerview.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/76af629e314dac3252ca20bbb1b2c370/transformed/preference-1.2.0/res/layout/preference_recyclerview.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/m3_alert_dialog.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/m3_alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/bonuspack_bubble.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/b837e88981b5a8b1960a2c02f93ba3e8/transformed/jetified-osmdroid-android-6.1.11/res/layout/bonuspack_bubble.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/test_toolbar.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/test_toolbar.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/5e083c06c9925c2309f02468fc66e376/transformed/core-1.7.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/design_layout_snackbar.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/infowindow.xml",
+        "source": "/Users/mac/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_osm_plugin-0.37.2+2/android/src/main/res/layout/infowindow.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_calendar_months.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_calendar_months.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/material_clock_display.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/material_clock_display.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/design_navigation_item_header.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/design_layout_tab_text.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/preference_information.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/76af629e314dac3252ca20bbb1b2c370/transformed/preference-1.2.0/res/layout/preference_information.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_picker_fullscreen.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_picker_fullscreen.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/preference_widget_switch.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/76af629e314dac3252ca20bbb1b2c370/transformed/preference-1.2.0/res/layout/preference_widget_switch.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/material_time_chip.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/material_time_chip.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/notification_action.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/5e083c06c9925c2309f02468fc66e376/transformed/core-1.7.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/3db694473890d00d37184af94df24c4c/transformed/media-1.0.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_picker_text_input_date.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_picker_text_input_date.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/test_toolbar_elevation.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/test_toolbar_elevation.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/preference_widget_checkbox.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/76af629e314dac3252ca20bbb1b2c370/transformed/preference-1.2.0/res/layout/preference_widget_checkbox.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/preference.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/76af629e314dac3252ca20bbb1b2c370/transformed/preference-1.2.0/res/layout/preference.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/m3_auto_complete_simple_item.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/m3_auto_complete_simple_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_cascading_menu_item_layout.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/test_toolbar_surface.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/test_toolbar_surface.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/3db694473890d00d37184af94df24c4c/transformed/media-1.0.0/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/test_exposed_dropdown_menu.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/test_exposed_dropdown_menu.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/image_frame.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/76af629e314dac3252ca20bbb1b2c370/transformed/preference-1.2.0/res/layout/image_frame.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/notification_template_media.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/3db694473890d00d37184af94df24c4c/transformed/media-1.0.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/text_view_with_line_height_from_layout.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/text_view_with_line_height_from_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/material_clockface_textview.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/material_clockface_textview.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/material_clock_display_divider.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/material_clock_display_divider.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/preference_list_fragment.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/76af629e314dac3252ca20bbb1b2c370/transformed/preference-1.2.0/res/layout/preference_list_fragment.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_alert_dialog_actions.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_alert_dialog_actions.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_search_view.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/5e083c06c9925c2309f02468fc66e376/transformed/core-1.7.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/test_chip_zero_corner_radius.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/test_chip_zero_corner_radius.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/custom_dialog.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/5e083c06c9925c2309f02468fc66e376/transformed/core-1.7.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/preference_widget_seekbar_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/76af629e314dac3252ca20bbb1b2c370/transformed/preference-1.2.0/res/layout/preference_widget_seekbar_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/notification_media_action.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/3db694473890d00d37184af94df24c4c/transformed/media-1.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/text_view_with_line_height_from_appearance.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/text_view_with_line_height_from_appearance.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/test_design_checkbox.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/test_design_checkbox.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/material_radial_view_group.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/material_radial_view_group.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/test_action_chip.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/test_action_chip.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/infowindow.xml",
+        "source": "/Users/mac/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_osm_plugin-0.37.2+2/android/src/main/res/layout/infowindow.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_alert_dialog.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_calendar_day_of_week.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_calendar_day_of_week.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/material_timepicker.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/material_timepicker.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_navigation_rail_item.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_navigation_rail_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/notification_template_big_media.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/3db694473890d00d37184af94df24c4c/transformed/media-1.0.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_picker_text_input_date_range.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_picker_text_input_date_range.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/preference_dropdown.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/76af629e314dac3252ca20bbb1b2c370/transformed/preference-1.2.0/res/layout/preference_dropdown.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_calendar_month.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/material_timepicker_textinput_display.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/material_timepicker_textinput_display.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/material_time_input.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/material_time_input.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_calendar_vertical.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_calendar_vertical.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/osm_layout.xml",
+        "source": "/Users/mac/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_osm_plugin-0.37.2+2/android/src/main/res/layout/osm_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/design_navigation_item.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_alert_select_dialog_multichoice.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_alert_select_dialog_multichoice.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/test_reflow_chipgroup.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/test_reflow_chipgroup.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_calendar_month_labeled.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_calendar_month_labeled.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/design_navigation_menu_item.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_calendar_horizontal.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_calendar_horizontal.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/text_view_with_line_height_from_style.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/text_view_with_line_height_from_style.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_picker_header_fullscreen.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_picker_header_fullscreen.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_auto_complete_simple_item.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_auto_complete_simple_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/text_view_without_line_height.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/text_view_without_line_height.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/preference_dropdown_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/76af629e314dac3252ca20bbb1b2c370/transformed/preference-1.2.0/res/layout/preference_dropdown_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/material_clock_period_toggle.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/material_clock_period_toggle.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/material_textinput_timepicker.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/material_textinput_timepicker.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_calendar_day.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_calendar_day.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/preference_widget_switch_compat.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/76af629e314dac3252ca20bbb1b2c370/transformed/preference-1.2.0/res/layout/preference_widget_switch_compat.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/design_menu_item_action_area.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_alert_select_dialog_item.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_alert_select_dialog_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_picker_header_selection_text.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_picker_header_selection_text.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/preference_category.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/76af629e314dac3252ca20bbb1b2c370/transformed/preference-1.2.0/res/layout/preference_category.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_alert_dialog_title.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_alert_dialog_title.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_screen_simple.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/test_navigation_bar_item_layout.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/test_navigation_bar_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_alert_select_dialog_singlechoice.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_alert_select_dialog_singlechoice.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/test_design_radiobutton.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/test_design_radiobutton.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/preference_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/76af629e314dac3252ca20bbb1b2c370/transformed/preference-1.2.0/res/layout/preference_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_tooltip.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/design_navigation_menu.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/design_text_input_start_icon.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/design_text_input_start_icon.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_calendar_year.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_calendar_year.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/material_timepicker_dialog.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/material_timepicker_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_layout_snackbar.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_picker_header_toggle.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_picker_header_toggle.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/preference_dialog_edittext.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/76af629e314dac3252ca20bbb1b2c370/transformed/preference-1.2.0/res/layout/preference_dialog_edittext.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/3db694473890d00d37184af94df24c4c/transformed/media-1.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/m3_alert_dialog_title.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/m3_alert_dialog_title.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/preference_information_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/76af629e314dac3252ca20bbb1b2c370/transformed/preference-1.2.0/res/layout/preference_information_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/3db694473890d00d37184af94df24c4c/transformed/media-1.0.0/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/3db694473890d00d37184af94df24c4c/transformed/media-1.0.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/m3_alert_dialog_actions.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/m3_alert_dialog_actions.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_layout_snackbar_include.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/design_text_input_end_icon.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/design_text_input_end_icon.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/material_clockface_view.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/material_clockface_view.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/text_view_with_theme_line_height.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/text_view_with_theme_line_height.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/mtrl_calendar_month_navigation.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/mtrl_calendar_month_navigation.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/test_toolbar_custom_background.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/test_toolbar_custom_background.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/14b221489d9eb05e0e9620522e8c9e12/transformed/appcompat-1.4.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/payment-gateway/MerchForce/build/flutter_osm_plugin/intermediates/merged_res/release/layout/design_layout_tab_icon.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/29f62b6bdb2affb7695308ad304e8e3c/transformed/material-1.6.0/res/layout/design_layout_tab_icon.xml"
+    }
+]
