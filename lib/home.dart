@@ -44,7 +44,7 @@ class _FrontPageState extends State<FrontPage> {
             Padding(padding: EdgeInsets.fromLTRB(0, 0, 10, 0)),
           ],
           title: Text(
-            "Home Page",
+            "Home",
             style: GoogleFonts.lato(),
           ),
         ),
@@ -75,30 +75,7 @@ class _FrontPageState extends State<FrontPage> {
                     padding: EdgeInsets.fromLTRB(10.0, 0.0, 10.0, 0.0),
                     child: Row(
                       mainAxisAlignment: MainAxisAlignment.center,
-                      children: [
-                        // Container(
-                        //   decoration: BoxDecoration(
-                        //       borderRadius: BorderRadius.circular(12.0),
-                        //       boxShadow: [
-                        //         BoxShadow(color: Colors.green, spreadRadius: 1),
-                        //       ],
-                        //       color: Colors.purple),
-                        //   width: 300,
-                        //   height: 200,
-                        // ),
-                        // Padding(padding: EdgeInsets.all(10)),
-                        // Container(
-                        //   width: 300,
-                        //   height: 200,
-                        //   color: Colors.black,
-                        // ),
-                        // Padding(padding: EdgeInsets.all(10)),
-                        // Container(
-                        //   width: 300,
-                        //   height: 200,
-                        //   color: Colors.pink,
-                        // )
-                      ],
+                      children: [],
                     )),
               ),
               Container(
